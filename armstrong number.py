@@ -14,7 +14,7 @@ else:
 
 
 
-#dry run of this code is
+#Dry run of this code is
 # lets suppose n=153 which is a armstrong number
 # n=153 (1*1*1+5*5*5+3*3*3)=153
 # num=153(153 will assign to num variable)
@@ -44,15 +44,8 @@ else:
 
 
 
-#fibocaccic series using python
 
-def fibonnaic_series(n):
-    if(n==0): 
-        return 0
-    elif(n==1):
-        return 1
-    else:
-        return fibonnaic_series(n-1)+(n-2)
+
           
 
 
